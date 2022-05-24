@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on <우주펫>
+- 🌱 I’m currently learning C++
+- 📫 How to reach me: <rhqjatjr0093@gmail.com>
+
 <!--
 **kbs0093/kbs0093** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
