@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on <우주펫>
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me: <rhqjatjr0093@gmail.com>
 
 <!--
